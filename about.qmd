@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About Luis Palacios
+Luis Palacios - Skills
+
+
+## Selected Projects
+
+#### Publications
+
+**unifir: A Unifying API for Interacting with Unity from R.** Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software 7(73): 4388. [https://doi.org/10.21105/joss.04388](https://doi.org/10.21105/joss.04388)

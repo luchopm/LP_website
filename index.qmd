@@ -1,7 +1,7 @@
 ---
 title: "Personal Page"
 image: LP.png
-about:
+
   template: trestles
   links:
     - text: LinkedIn
@@ -13,6 +13,7 @@ about:
       url: "mailto:luchopm@hotmail.com"
     - text: CV
       url: "cv.pdf"
+
 comments: false
 ---
 
