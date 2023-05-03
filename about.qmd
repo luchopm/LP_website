@@ -41,12 +41,15 @@ title: "About"
 **Feb 2022 to present:** Cleaning Team Member. 
 Windsor, Ontario. Canada
 
+---
 
 
 ![](laureate.png){.preview-image}
 
 **Nov 2009 to Mar 2021:** Management Control Engineer. 
 
+
+---
 
 
 ![](dts.png){.preview-image}
@@ -55,6 +58,7 @@ Windsor, Ontario. Canada
 
 
 
+---
 
 ## Awards & Recognition
 
