@@ -2,11 +2,59 @@
 title: "About"
 ---
 
-Luis Palacios - Skills
+
+## Skills
+
+#### Qlikview - QlikSense
+
+**Develop** Transforming large amounts of data in ways that are universally understandable or easy to interpret and spot patterns, trends and correlations. Build reports and dashboards with the help of Qlik and other reporting tools
+
+**Maintenance/Configuration** Qlikview Server, automatized ETL
 
 
-## Selected Projects
 
-#### Publications
+#### Oracle Hyperion
 
-**unifir: A Unifying API for Interacting with Unity from R.** Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software 7(73): 4388. [https://doi.org/10.21105/joss.04388](https://doi.org/10.21105/joss.04388)
+**Hyperion Planning:** Collection of data and financial consolidation. Data entry, analysis, and reporting, including personalizing data entry forms
+
+**Smartview for MS Office:** Experienced skills for reporting and querys. Design worksheets in Microsoft Excel to enter, format, analyze, and report on data
+
+**HFM:** Hyperion Financial Management. Consolidate and report financial results, meet global regulatory requirements, reduce the cost of compliance, and deliver confidence in the numbers
+
+
+#### Data Analysis
+
+**MS Excel / MS Access:** Performing data analysis, including PowerQuery. Ability to provide analysis and operational insights
+
+**Python:** Analyzing data to provide key insights and solve business challenges. Extract, integrate and analyze multiple disparate data sources from a variety of systems, such as structured and unstructured data.Mine data to uncover patterns and to identify business trends and new opportunities for using analytics
+
+**R:** Explore data, apply statistics functions
+
+**SQL:** Relational databases, data integration. Ensuring the integrity of the data
+
+
+
+## Experience
+
+![](rivera.png){.preview-image}
+
+**Feb 2022 to present:** Cleaning Team Member. 
+Windsor, Ontario. Canada
+
+![](laureate.png){.preview-image}
+
+**Nov 2009 to Mar 2021:** Management Control Engineer. 
+
+![](dts.png){.preview-image}
+
+**Apr 2003 to Nov 2009:** Process Analyst. Call Center Technical Support for HP/Compaq 
+
+
+## Awards & Recognition
+
+**Collaboration Award:** Global recognition conferred among all network financial teams. This Award was given for my contributions and share all my findings with my colleagues and other regional teams 
+
+![](award.png){.preview-image}
+
+
+

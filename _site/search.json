@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About Luis Palacios"
+    "text": "Develop Transforming large amounts of data in ways that are universally understandable or easy to interpret and spot patterns, trends and correlations. Build reports and dashboards with the help of Qlik and other reporting tools\nMaintenance/Configuration Qlikview Server, automatized ETL\n\n\n\nHyperion Planning: Collection of data and financial consolidation. Data entry, analysis, and reporting, including personalizing data entry forms\nSmartview for MS Office: Experienced skills for reporting and querys. Design worksheets in Microsoft Excel to enter, format, analyze, and report on data\nHFM: Hyperion Financial Management. Consolidate and report financial results, meet global regulatory requirements, reduce the cost of compliance, and deliver confidence in the numbers\n\n\n\nMS Excel / MS Access: Performing data analysis, including PowerQuery. Ability to provide analysis and operational insights\nPython: Analyzing data to provide key insights and solve business challenges. Extract, integrate and analyze multiple disparate data sources from a variety of systems, such as structured and unstructured data.Mine data to uncover patterns and to identify business trends and new opportunities for using analytics\nR: Explore data, apply statistics functions\nSQL: Relational databases, data integration. Ensuring the integrity of the data"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,26 @@
     "title": "New Page",
     "section": "",
     "text": "I can anything"
+  },
+  {
+    "objectID": "about.html#selected-projects",
+    "href": "about.html#selected-projects",
+    "title": "About",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nPublications\nunifir: A Unifying API for Interacting with Unity from R. Mahoney, MJ, Beier, CM, and Ackerman, AC. 2022. Journal of Open Source Software 7(73): 4388. https://doi.org/10.21105/joss.04388"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nFeb 2022 to present: Cleaning Team Member. Windsor, Ontario. Canada\n\nNov 2009 to Mar 2021: Management Control Engineer.\n\nApr 2003 to Nov 2009: Process Analyst. Call Center Technical Support for HP/Compaq"
+  },
+  {
+    "objectID": "about.html#awards-recognition",
+    "href": "about.html#awards-recognition",
+    "title": "About",
+    "section": "Awards & Recognition",
+    "text": "Awards & Recognition\nCollaboration Award: Global recognition conferred among all network financial teams. This Award was given for my contributions and share all my findings with my colleagues and other regional teams"
   }
 ]
