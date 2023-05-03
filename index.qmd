@@ -10,7 +10,7 @@ about:
       icon: github
       url: "https://github.com/luchopm"
     - text: Email
-      url: "mailto:luchopm@hotmail.com"
+      url: "mailto:LP57@myscc.ca"
     - text: CV
       url: "cv.pdf"
 comments: false
