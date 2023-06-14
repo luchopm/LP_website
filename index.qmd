@@ -20,11 +20,12 @@ comments: false
 
 ## Bio
 
-Recently graduated from St. Clair College,  City of Windsor, Ontario, Canada on Data Analytics for Business program.
+Experienced professional in Financial Planning & Analysis roles within large and fast-paced corporations. Release-planning specialist trained in BI development, data analysis, and large experience in financial reporting. Recently graduated in Data Analytics for Business Postgraduate diploma at St. Clair College (ON, Canada) to complement my background
 
-I have more than 11 years of experience in large organizations, as part of the regional office, working in Financial data analysis, Financial reporting, and BI development.
+I am an analytical and driven person with a natural passion for learning new data tools and processes. Experienced in data analysis, data visualization and KPI/metrics visualization, with knowledge in Python, R, SQL, Tableau, Power BI, and large experience in QlikView and Qlik Sense. Aside from that, knowledge of Oracle Hyperion Planning, HFM and SmartView tools for advanced reporting and pulling data.
 
-In addition, I combined my work with my IT background in BI (Business Intelligence) development, creating executive and affordable financial and operational dashboards. 
+I am an enthusiastic business partner and passionate about the highest quality of work and positive environments. Creative solutions architect with real-time problem-solving flexibility. Proven ability to learn quickly and adapt to new situations.
+
 
 On this site I keep updated my curriculum, and [my CV](cv.pdf), as well you can reach my [LinkedIn](https://linkedin.com/in/lmpalacios).
 
@@ -53,27 +54,27 @@ On this site I keep updated my curriculum, and [my CV](cv.pdf), as well you can 
 
 -   **Data Analytics for Business** <br>
     <p class= "grad-location">  
-    St. Clair College <br>
+    St. Clair College | May 2023 <br>
     Windsor, ON. Canada
     </p>
 
 
 -   **MBA, Master of Business Administration** <br>
     <p class= "grad-location">  
-    UEM - UNAB <br>
+    UEM - UNAB | Jul 2020<br>
     Madrid, Spain - Santiago, Chile
     </p>
     
     
--   **Bachelor Business Administration ** <br>
+-   **Bachelor Business Administration** <br>
     <p class= "grad-location">  
-    UNAB (Universidad Andres Bello) <br>
+    UNAB (Universidad Andres Bello) | Jul 2013 <br>
     Santiago, Chile
     </p>
     
 -   **Computer Science & Management Control Engineer** <br>
     <p class= "grad-location">  
-    UDP (Universidad Diego Portales) <br>
+    UDP (Universidad Diego Portales) | Dec 2004 <br>
     Santiago, Chile
     </p>
 
