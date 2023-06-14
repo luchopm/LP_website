@@ -14,6 +14,7 @@ about:
     - text: CV
       url: "cv.pdf"
 comments: false
+link-external-newwindow: true
 ---
 
 ::: {.column-page}
@@ -27,7 +28,7 @@ I am an analytical and driven person with a natural passion for learning new dat
 I am an enthusiastic business partner and passionate about the highest quality of work and positive environments. Creative solutions architect with real-time problem-solving flexibility. Proven ability to learn quickly and adapt to new situations.
 
 
-On this site I keep updated my curriculum, and [my CV](cv.pdf), as well you can reach my [LinkedIn](https://linkedin.com/in/lmpalacios).
+On this site I keep updated my curriculum, and [my CV](cv.pdf){.external target="_new"}, as well you can reach my [LinkedIn](https://linkedin.com/in/lmpalacios).
 
 <p></p>
 

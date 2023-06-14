@@ -137,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Experienced professional in Financial Planning &amp; Analysis roles within large and fast-paced corporations. Release-planning specialist trained in BI development, data analysis, and large experience in financial reporting. Recently graduated in Data Analytics for Business Postgraduate diploma at St.&nbsp;Clair College (ON, Canada) to complement my background</p>
 <p>I am an analytical and driven person with a natural passion for learning new data tools and processes. Experienced in data analysis, data visualization and KPI/metrics visualization, with knowledge in Python, R, SQL, Tableau, Power BI, and large experience in QlikView and Qlik Sense. Aside from that, knowledge of Oracle Hyperion Planning, HFM and SmartView tools for advanced reporting and pulling data.</p>
 <p>I am an enthusiastic business partner and passionate about the highest quality of work and positive environments. Creative solutions architect with real-time problem-solving flexibility. Proven ability to learn quickly and adapt to new situations.</p>
-<p>On this site I keep updated my curriculum, and <a href="cv.pdf">my CV</a>, as well you can reach my <a href="https://linkedin.com/in/lmpalacios">LinkedIn</a>.</p>
+<p>On this site I keep updated my curriculum, and <a href="cv.pdf" class="external" target="_new">my CV</a>, as well you can reach my <a href="https://linkedin.com/in/lmpalacios">LinkedIn</a>.</p>
 <p>
 </p>
 <!-- ## Selected Projects -->
@@ -518,6 +518,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
