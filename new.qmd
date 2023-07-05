@@ -1,6 +1,0 @@
----
-title: "New Page"
-editor: visual
----
-
-I can anything
