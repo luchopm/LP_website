@@ -510,16 +510,16 @@ ol.publication.E-list li p:before {
   content: "[E"counter(E-counter)"]";
 }
 
-ol.publication.T-list {
-  counter-reset: T-counter;
+ol.publication.C-list {
+  counter-reset: C-counter;
 }
 
-ol.publication.T-list li p {
-  counter-increment: T-counter;
+ol.publication.C-list li p {
+  counter-increment: C-counter;
 }
 
-ol.publication.T-list li p:before {
-  content: "[T"counter(T-counter)"]";
+ol.publication.C-list li p:before {
+  content: "[C"counter(C-counter)"]";
 }
 
 ol.publication.O-list {
