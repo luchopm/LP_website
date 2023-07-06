@@ -230,7 +230,7 @@ hr {
 }
 
 .menu .menu-items .dropdown .dropdown-content a:hover {
-  backgro95und-color: #ddd;
+  background-color: #ddd;
   color: black;
 }
 
@@ -277,7 +277,7 @@ hr {
 .content-table {
   padding: 10px 10px;
   width: 100%;
-  margin: 5px;
+  margin: 0px;
 }
 
 .banner {
